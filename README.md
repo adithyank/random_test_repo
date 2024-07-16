@@ -17,3 +17,6 @@ another change 6
 
 
 Huge chage in CRM Module
+
+Caching uses disk now
+
